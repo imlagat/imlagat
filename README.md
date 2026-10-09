@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there 👋 i'm Emmanuel lagat
 
-
-**imlagat/imlagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm Emmanuel lagat
 
 Here are some ideas to get you started:
 
