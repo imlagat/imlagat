@@ -1,7 +1,5 @@
 ## Hi there 👋 i'm Emmanuel lagat
 
-i'm Emmanuel lagat
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
