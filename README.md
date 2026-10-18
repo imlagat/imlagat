@@ -94,7 +94,7 @@
       <p>Employee records and administrative workflows.</p>
       <p><sub><b>(Django + PostgreSQL)</b></sub></p>
       <p>
-        <a href="https://github.com/imlagat">
+        <a>
           <img src="https://img.shields.io/badge/View_Repo_→-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Repo" />
         </a>
       </p>
@@ -103,13 +103,7 @@
       <p><img src="https://img.shields.io/badge/🛡️-2563EB?style=for-the-badge&logoColor=white" height="28"/></p>
       <h3>Cybersecurity Labs</h3>
       <p>Exploring Linux, networking, and web application security.</p>
-      <p><sub><b>(Kali Linux + Tools)</b></sub></p>
-      <p>
-        <a href="https://github.com/imlagat">
-          <img src="https://img.shields.io/badge/View_Repo_→-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Repo" />
-        </a>
-      </p>
-    </td>
+      <p><sub><b>(Kali Linux + Tools)</b></sub>
   </tr>
 </table>
 
