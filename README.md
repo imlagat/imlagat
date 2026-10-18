@@ -134,22 +134,22 @@
           <td align="center" width="33%">
             <a href="https://github.com/imlagat">
               <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" /><br>
-              <b>GitHub</b><br>
-              <sub>@imlagat</sub>
+              <b></b><br>
+              <sub></sub>
             </a>
           </td>
           <td align="center" width="33%">
             <a href="https://linkedin.com/in/emmanuel-lagat-5b658336a">
               <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /><br>
-              <b>LinkedIn</b><br>
-              <sub>/in/emmanuel-lagat-5b658336a</sub>
+              <b></b><br>
+              <sub></sub>
             </a>
           </td>
           <td align="center" width="33%">
             <a href="mailto:lagatemmanuel07@gmail.com">
               <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" /><br>
-              <b>Email</b><br>
-              <sub>lagatemmanuel07@gmail.com</sub>
+              <b></b><br>
+              <sub></sub>
             </a>
           </td>
         </tr>
