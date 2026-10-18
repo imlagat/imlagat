@@ -5,7 +5,9 @@
       <img src="https://ui-avatars.com/api/?name=EL&background=0b1329&color=38bdf8&size=128&font-size=0.45&rounded=true&bold=true" alt="EL Avatar" width="85" style="border-radius: 50%;" />
     </td>
     <td width="65%" valign="middle">
-      <h1>👋 Hey, I'm Emmanuel</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&duration=2500&pause=1200&color=FFFFFF&width=450&lines=%F0%9F%91%8B+Hi%2C+I'm+Emmanuel;%F0%9F%91%8B+Hi%2C+I'm+Emmanuel+Lagat" alt="Hi, I'm Emmanuel Lagat" />
+      </a>
       <p>
         <a href="#"><img src="https://img.shields.io/badge/Developer-0284c7?style=flat-square&logoColor=white" alt="Developer" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Cybersecurity_Enthusiast-16a34a?style=flat-square&logoColor=white" alt="Cybersecurity" /></a>
