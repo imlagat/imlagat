@@ -68,47 +68,32 @@
   <tr>
     <td width="25%" valign="top">
       <p><img src="https://img.shields.io/badge/🛒-FF5722?style=for-the-badge&logoColor=white" height="28"/></p>
-      <h3>SaaS POS System</h3>
+      <h3><a href="https://github.com/imlagat/Pos_supermarket">SaaS POS System</a></h3>
       <p>Retail management, sales, branches, and M-Pesa integration.</p>
       <p><sub><b>(React + Laravel + MySQL)</b></sub></p>
-      <p>
-        <a href="https://github.com/imlagat">
-          <img src="https://img.shields.io/badge/View_Repo_→-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Repo" />
-        </a>
-      </p>
     </td>
     <td width="25%" valign="top">
       <p><img src="https://img.shields.io/badge/🎯-7C3AED?style=for-the-badge&logoColor=white" height="28"/></p>
-      <h3>SkillMatrix</h3>
+      <h3><a href="https://github.com/imlagat/Employee_skills_system">SkillMatrix</a></h3>
       <p>Employee competency tracking and skills-gap analysis.</p>
       <p><sub><b>(Django + React + PostgreSQL)</b></sub></p>
-      <p>
-        <a href="https://github.com/imlagat">
-          <img src="https://img.shields.io/badge/View_Repo_→-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Repo" />
-        </a>
-      </p>
     </td>
     <td width="25%" valign="top">
       <p><img src="https://img.shields.io/badge/👥-10B981?style=for-the-badge&logoColor=white" height="28"/></p>
-      <h3>Employee Management System</h3>
+      <h3><a href="https://github.com/imlagat">Employee Management System</a></h3>
       <p>Employee records and administrative workflows.</p>
       <p><sub><b>(Django + PostgreSQL)</b></sub></p>
-      <p>
-        <a>
-          <img src="https://img.shields.io/badge/View_Repo_→-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Repo" />
-        </a>
-      </p>
     </td>
     <td width="25%" valign="top">
       <p><img src="https://img.shields.io/badge/🛡️-2563EB?style=for-the-badge&logoColor=white" height="28"/></p>
-      <h3>Cybersecurity Labs</h3>
+      <h3><a href="https://github.com/imlagat">Cybersecurity Labs</a></h3>
       <p>Exploring Linux, networking, and web application security.</p>
-      <p><sub><b>(Kali Linux + Tools)</b></sub>
+      <p><sub><b>(Kali Linux + Tools)</b></sub></p>
+    </td>
   </tr>
 </table>
 
 ---
-
 <!-- Exploring & Connect Section -->
 <table width="100%">
   <tr>
