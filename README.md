@@ -88,7 +88,7 @@
     </td>
     <td width="25%" valign="top">
       <p><img src="https://img.shields.io/badge/🛡️-2563EB?style=for-the-badge&logoColor=white" height="28"/></p>
-      <h3><a href="https://github.com/imlagat">Cybersecurity Labs</a></h3>
+      <h3><a href="https://github.com/imlagat/NETWORKWALKS-EMMANUEL-B084M-WK1-CYBERSECURITY-LAB-SETUP">Cybersecurity Labs</a></h3>
       <p>Exploring Linux, networking, and web application security.</p>
       <p><sub><b>(Kali Linux + Tools)</b></sub></p>
     </td>
